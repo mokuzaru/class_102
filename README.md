@@ -25,9 +25,22 @@
 - Subir cambios locales con git
 - Teoria de arquitectura en la nube
 - node js
+    - Levantar servidor (http)
+    - Levantar servidos (express)
+    - Rutas
+    - Tipo de peticiones (get post)
+    - git ignore (node modules)
 
-    - Lista de comandos en nodeJs
-        - npm init --yes
-        - npm run "script"
-        - Ctrl + c   (Detener servidor)
-        
+- Lista de comandos en nodeJs
+    - npm init --yes
+    - npm run "script"
+    - Ctrl + c   (Detener servidor)
+
+
+# Indicaciones para levantar el proyecto por primera ves
+
+Ingresar el siguiente comando 
+
+    npm i
+
+*Para instalar todas las dependencias de node*
