@@ -4,7 +4,7 @@
 ## Herramientas Backend
 
 - [postman](https://www.postman.com/downloads/)
-- [git](https://git-scm.com/)
+- [git](https://git-scm.com/) - [install video](https://youtu.be/9uKPY7V_ai8)
 
 ## NodeJS:
 
